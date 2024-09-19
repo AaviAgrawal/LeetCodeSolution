@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
