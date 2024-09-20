@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
