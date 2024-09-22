@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
