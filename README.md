@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
