@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
