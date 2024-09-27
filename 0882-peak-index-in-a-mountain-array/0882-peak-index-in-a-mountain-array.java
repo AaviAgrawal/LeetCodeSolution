@@ -1,22 +1,6 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        int l = 0,r = arr.length-1;
-        int max = arr[0];
-        int ans = 0;
-        while (l<=r){
-            if(arr[l] > max || arr[r] > max){
-                if(arr[l] > arr[r] && arr[l] > max){
-                    max = arr[l];
-                    ans = l;
-                }
-                else{
-                    max = arr[r];
-                    ans = r;
-                }
-            }
-            l++;
-            r--;
-        }
-        return ans;
+        for(int i=1;i<arr.length-1;i++) if(arr[i] > arr[i+1]) return i;
+        return 0;
     }
 }
