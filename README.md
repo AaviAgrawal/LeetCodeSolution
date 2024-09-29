@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 ## String
@@ -83,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
