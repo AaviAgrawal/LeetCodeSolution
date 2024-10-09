@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0434-number-of-segments-in-a-string) |
 ## Interactive
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
