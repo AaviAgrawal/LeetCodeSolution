@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0434-number-of-segments-in-a-string) |
 ## Interactive
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
