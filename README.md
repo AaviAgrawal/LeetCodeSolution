@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0742-to-lower-case) |
 ## Interactive
 |  |
