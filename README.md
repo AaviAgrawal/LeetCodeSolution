@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0812-rotate-string) |
 ## Interactive
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
