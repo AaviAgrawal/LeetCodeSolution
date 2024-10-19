@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0851-goat-latin) |
 ## Interactive
 |  |
 | ------- |
