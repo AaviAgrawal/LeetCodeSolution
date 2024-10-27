@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
