@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [3567-convert-date-to-binary](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
+| [3567-convert-date-to-binary](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3567-convert-date-to-binary) |
 ## Interactive
 |  |
 | ------- |
