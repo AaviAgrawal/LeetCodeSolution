@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3468-find-the-encrypted-string) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
