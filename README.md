@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3462-vowels-game-in-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3468-find-the-encrypted-string) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
 | [3567-convert-date-to-binary](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3567-convert-date-to-binary) |
 ## Interactive
