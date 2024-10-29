@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
 ## Matrix
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
+| [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3207-make-three-strings-equal) |
 | [3312-number-of-changing-keys](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3312-number-of-changing-keys) |
