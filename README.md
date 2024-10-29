@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0742-to-lower-case) |
+| [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0851-goat-latin) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
+| [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0889-buddy-strings) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
+| [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
