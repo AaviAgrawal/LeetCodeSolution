@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
+| [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3312-number-of-changing-keys) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
+| [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
