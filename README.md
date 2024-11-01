@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3207-make-three-strings-equal) |
 | [3312-number-of-changing-keys](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3312-number-of-changing-keys) |
+| [3396-valid-word](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
