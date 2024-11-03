@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 | [3462-vowels-game-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3462-vowels-game-in-a-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0520-detect-capital) |
