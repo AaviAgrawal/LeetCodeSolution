@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
+| [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
+| [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0889-buddy-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
