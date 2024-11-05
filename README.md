@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2580-circular-sentence) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
