@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
 ## Matrix
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3207-make-three-strings-equal) |
