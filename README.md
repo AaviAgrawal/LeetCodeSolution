@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2580-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2825-minimize-string-length](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2825-minimize-string-length) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3412-permutation-difference-between-two-strings) |
