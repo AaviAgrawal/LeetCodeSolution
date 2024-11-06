@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
+| [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
