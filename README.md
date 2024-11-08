@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3207-make-three-strings-equal) |
