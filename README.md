@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2050-count-good-numbers) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3567-convert-date-to-binary) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
