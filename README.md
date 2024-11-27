@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
