@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
