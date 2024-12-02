@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0229-majority-element-ii) |
