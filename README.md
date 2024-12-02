@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
