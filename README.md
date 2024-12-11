@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
