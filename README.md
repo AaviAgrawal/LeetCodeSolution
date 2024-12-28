@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 ## String Matching
