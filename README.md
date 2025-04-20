@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Queue
 |  |
