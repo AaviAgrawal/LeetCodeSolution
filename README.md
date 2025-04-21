@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0151-reverse-words-in-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
