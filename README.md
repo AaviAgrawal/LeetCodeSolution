@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2050-count-good-numbers) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3462-vowels-game-in-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
+| [1610-xor-operation-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
