@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3541-report-spam-message](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3541-report-spam-message) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
 | ------- |
