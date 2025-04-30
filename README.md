@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
+| [1054-complement-of-base-10-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
