@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
