@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1031-add-to-array-form-of-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
