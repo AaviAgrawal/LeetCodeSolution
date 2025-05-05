@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2050-count-good-numbers) |
