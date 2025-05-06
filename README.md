@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0921-spiral-matrix-iii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0229-majority-element-ii) |
