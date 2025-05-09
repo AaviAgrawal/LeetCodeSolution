@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
