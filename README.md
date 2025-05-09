@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0921-spiral-matrix-iii) |
+| [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0889-buddy-strings) |
+| [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0645-set-mismatch) |
 | [0807-custom-sort-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0807-custom-sort-string) |
+| [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
