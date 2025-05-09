@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0889-buddy-strings) |
 | [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1961-maximum-ice-cream-bars](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1961-maximum-ice-cream-bars) |
 | [2502-sort-the-people](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/2887-sort-vowels-in-a-string) |
