@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0441-arranging-coins) |
+| [0755-reach-a-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1372-check-if-it-is-a-good-array) |
