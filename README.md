@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-height-checker](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1137-height-checker) |
+| [1185-find-in-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 | [1217-relative-sort-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1217-relative-sort-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0924-fair-candy-swap) |
+| [1185-find-in-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1646-kth-missing-positive-number) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/AaviAgrawal/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 ## Counting
 |  |
 | ------- |
